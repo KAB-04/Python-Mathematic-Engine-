@@ -7,7 +7,7 @@ Added `Euclidean_1.py` and `Euclidean2.py` to handle core 2D geometry operations
 * **Transformations:** Support for 2D translation, rotation, and reflection.
 
 
-### 🧩 Geometry Engine – Progress Update
+###  Geometry Engine – Progress Update
 📐 Completed Modules
 1. Euclidean Geometry Engine
 
